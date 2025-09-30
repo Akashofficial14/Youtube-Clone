@@ -319,7 +319,7 @@ position: relative;
     #sec1 #part2{
         width: 100%;
         position: relative;
-        top: 150px;
+        top: 130px;
     }
     #sec1 #part2a{
         position: fixed;
@@ -345,7 +345,7 @@ position: relative;
         flex-wrap: wrap;
         position: relative;
         left: 0;
-        padding: 0 10px;
+        padding: 0 5px;
     }
     .box{
         width: 100%;
