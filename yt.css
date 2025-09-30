@@ -16,6 +16,7 @@ main{
     height: 100%;
     width: 100%;
     padding: 0.5vw 2vw;
+    background-color: #FFFFFF;
 }
 nav{
 height: 8vh;
@@ -300,6 +301,9 @@ position: relative;
     }
     #navp3 #search{
     display: block;
+    position: relative;
+    top: -21px;
+    right: 100px;
 }
     #part3{
         display: none;
@@ -341,10 +345,11 @@ position: relative;
         flex-wrap: wrap;
         position: relative;
         left: 0;
+        padding: 10px;
     }
     .box{
         width: 100%;
-        padding-bottom: 5px;
+        padding-bottom: 2.5vh;
     }
     .box img{
         object-fit: cover;
